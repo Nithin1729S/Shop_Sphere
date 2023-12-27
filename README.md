@@ -21,3 +21,7 @@ python manage.py makemigrations
 python manage.py migrate
 
 python manage.py runserver
+
+
+
+Followed Tutorial: https://www.youtube.com/watch?v=ZxMB6Njs3ck
