@@ -7,6 +7,7 @@ To run the website
 1) Create a virtual environment
 
 virualenv env
+
 source env/bin/activate
 
 2) Install Dependencies
@@ -16,5 +17,7 @@ pip install -r requirements.txt
 3) Run the server
 
 pythoh manage.py makemigrations
+
 python manage.py migrate
+
 python manage.py runserver
