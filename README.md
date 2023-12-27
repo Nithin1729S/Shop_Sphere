@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 3) Run the server
 
-pythoh manage.py makemigrations
+python manage.py makemigrations
 
 python manage.py migrate
 
